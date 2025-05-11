@@ -2,15 +2,15 @@
 
 <div style="text-align: center;"> 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mkhussine&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox) 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mkhussine&data=followers,repositories,stars,commits&theme=dark)](https://github.com/mkhussine/github-widgetbox) 
 </div>
 
 <h1 align="center">Welcome! I’m Mohamed Hussien ✨☁️</h1>
 <h3 align="center">Computer Science Student @ ECU | Cloud Native Enthusiast | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkhussine&label=Profile%20views&color=0e75b6&style=flat" alt="AyaNabil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkhussine&label=Profile%20views&color=0e75b6&style=flat" alt="mkhussine" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mkhussine&column=-1&theme=onedark" alt="AyaNabil" /></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mkhussine&column=-1&theme=onedark" alt="mkhussine" /></p>
 
 <table style="width:100%", align="center">
     <tr>
@@ -25,7 +25,7 @@
                 </ul>
                 <h3 align="left">Connect with me:</h3>
                     <p align="left">
-                        <a href="www.linkedin.com/in/mkhussien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
+                        <a href="www.linkedin.com/in/mkhussien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkhussine" height="30" width="40" /></a>
                     </p>
                 <h3 align="left">Languages and Tools:</h3>
                     <p align="left"> 
@@ -44,20 +44,20 @@
 <table>
     <tr>
         <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=mkhussien&show_icons=true&locale=en&theme=dark" alt="Aya Nabil"/></p>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=mkhussine&show_icons=true&locale=en&theme=dark" alt="Mohamed Hussien"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkhussien&theme=dark" alt="Aya Nabil" style="padding-right: 30px;"/></p>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkhussine&theme=dark" alt="Mohamed Hussien" style="padding-right: 30px;"/></p>
         </th>
     </tr>
 </table>
 <p align="center">🌟 Explore my Cloud Native projects and feel free to star what interests you! 🌟</p>
 
-[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhussien&hide_progress=true&theme=dark" alt="1AyaNabil1" width=400 /></p> )
+[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhussine&hide_progress=true&theme=dark" alt="mkhussine" width=400 /></p> )
 
 [//]: # (<br> )
 
 [//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
 
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=mkhussien&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=mkhussine&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 <br>
